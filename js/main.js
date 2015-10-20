@@ -322,13 +322,6 @@
 
   $(function () {
 
-    // $(document).on('click', '#crop_avatar', function(event) {
-    //   return new CropAvatar($('#crop_avatar'));
-    // })
-
-    // $(document).on('click', '#crop_avatar_2', function(event) {
-    //   return new CropAvatar($('#crop_avatar_2'));
-    // })
 
   });
 
